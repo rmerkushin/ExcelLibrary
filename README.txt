@@ -1,0 +1,1 @@
+The Robot Framework ExcelLibrary is a library which provides common functionality for testing Excel spreadsheets contents. See ExcelLibrary.html for more information about provided keywords.
